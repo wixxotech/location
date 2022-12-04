@@ -2,12 +2,11 @@
 
 **YouTube**
 
-<a href="https://youtu.be/Q91cTFwIvLc">
+<a href="https://youtu.be/iR75vxRRD2Y">
   <img src="https://i3.ytimg.com/vi/Q91cTFwIvLc/maxresdefault.jpg">
 </a>
 
 Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://thewhiteh4t.github.io"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
-
 * Longitude
 * Latitude
 * Accuracy
